@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+}
+header {
+  background-image: url(./imags/banner.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100wh;
+  height: 100vh;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  position: sticky;
+
+  margin-left: 90px;
+  margin-top: 15px;
+}
+.photo-top {
+}
+.navbar span {
+  
+ 
+}
+li {
+  list-style: none;
+}
+a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+button{
+  border: none;
+}
